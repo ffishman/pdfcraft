@@ -2869,7 +2869,7 @@ theme	Appearance	Aparência
 	Options for this reply	Opções desta resposta
 	Export value	Valor de exportação
 
-# Signatures panel: Import certificates… (AI-assisted, reviewed by a native speaker)
+# Signatures panel: Import certificates… (AI-assisted, not separately native-reviewed)
 	Import certificates…	Importar certificados…
 	Couldn't import the certificates: {e}	Não foi possível importar os certificados: {e}
 	Import Certificates	Importar certificados
